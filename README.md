@@ -1,6 +1,11 @@
+--- ---
+**Jung Hyun Lee** (jeong hyeon Lee / 이정현)
+--- ---
+
 - Hi, I’m JH Lee
 - Now i'm undergraduate student in KHU, South korea, since 2018.3
-- I’m interested in computer vision, Deep Learning, Computational Photography
+- member of MLVC Lab as UG intern, since 2025.1
+- I’m interested in Deep Learning with computational photography and remote sensing.
 - e-mail : a3lements@gmail.com
 
 <!---

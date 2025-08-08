@@ -1,11 +1,12 @@
 --- ---
-**Jung Hyun Lee** (jeong hyeon Lee / 이정현)
+**Jung Hyun Lee** (jeong-hyeon Lee / 이정현)
 --- ---
 
 - Hi, I’m JH Lee
-- Now i'm undergraduate student in KHU, South korea, since 2018.3
-- member of MLVC Lab as UG intern, since 2025.1 [Link to Lab](https://mlvc.khu.ac.kr)
-- Now i'm researching about Deep learning, especially application to remote sensing, sensor fusion.
+- Now i'm graduate student in KHU, major in AI, since 2025.09
+- Previously, i was undergraduate student in KHU, B.S. in CE, from 2018.03. to 2025.06..
+- member of MLVC Lab as Graduate student, since 2025.1 [Link to Lab](https://mlvc.khu.ac.kr)
+- Now i'm researching about Deep learning, especially application to remote sensing, Image/video/multimodal compression
 - e-mail : a3lements@gmail.com
 
 <!---
